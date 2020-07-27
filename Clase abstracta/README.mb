@@ -1,0 +1,4 @@
+Creamos una clase abstracta “Product” 
+donde declaramos un método abstracto llamado “getName” 
+pero éste no está implementado en esa clase sino que que es en la clase “Banana” 
+donde definimos el método y su comportamiento.

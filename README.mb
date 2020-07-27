@@ -1,0 +1,4 @@
+Al igual que en las clases abstractas en un Interface se especifica qué se debe hacer 
+pero no su implementación. 
+Serán las clases que implementen estas interfaces las que describen las acciones que puede llevar a cabo un determinado objeto.
+
